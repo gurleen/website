@@ -1,0 +1,240 @@
+@font-face {
+    font-family: 'Univers Next Pro';
+    src: url('UniversNextPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro';
+    src: url('UniversNextPro-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro Light Cond';
+    src: url('UniversNextPro-LightCondIt.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro';
+    src: url('UniversNextPro-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro Light Cond';
+    src: url('UniversNextPro-LightCond.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro';
+    src: url('UniversNextPro-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro UltLt Cond';
+    src: url('UniversNextPro-UltLtCond.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro Medium Cond';
+    src: url('UniversNextPro-MediumCond.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro UltLt';
+    src: url('UniversNextPro-UltLt.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro UltLt';
+    src: url('UniversNextPro-UltLtIt.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro Thin Cond';
+    src: url('UniversNextPro-ThinCondIt.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro';
+    src: url('UniversNextPro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro Light Cond';
+    src: url('UniversNextPro-BoldCond.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro';
+    src: url('UniversNextPro-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro Condensed';
+    src: url('UniversNextPro-CondItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro Medium Cond';
+    src: url('UniversNextPro-MediumCondIt.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro';
+    src: url('UniversNextPro-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro Light Cond';
+    src: url('UniversNextPro-BoldCondIt.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro';
+    src: url('UniversNextPro-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro UltLt Cond';
+    src: url('UniversNextPro-UltLtCondIt.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro Thin Cond';
+    src: url('UniversNextPro-ThinCond.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro Condensed';
+    src: url('UniversNextPro-HeavyCondIt.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro Condensed';
+    src: url('UniversNextPro-HeavyCondIt_1.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro';
+    src: url('UniversNextPro-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro XBlack';
+    src: url('UniversNextPro-XBlackIt.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro Condensed';
+    src: url('UniversNextPro-HeavyCond.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro Condensed';
+    src: url('UniversNextPro-HeavyCond_1.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro';
+    src: url('UniversNextPro-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro';
+    src: url('UniversNextPro-HeavyItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro';
+    src: url('UniversNextPro-Heavy.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
