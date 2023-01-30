@@ -1,0 +1,77 @@
+:root {
+	--gray-bg: #eeeeee;
+}
+
+body {
+	font-family: "Univers Next Pro";
+	font-size: 14px;
+}
+
+.title {
+	color: black;
+	font-weight: 600;
+	font-size: 20px;
+	margin-right: 10px;
+}
+
+.container {
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+.flex {
+	display: flex;
+}
+
+@media only screen and (min-width: 900px) {
+  /* For large screens: */
+  .container {
+	  margin-left: 120px;
+	  margin-right: 120px;
+  }
+}
+
+.col {
+	max-width: 100%;
+	margin: 5px;
+}
+
+.nav {
+	padding-top: 10px;
+	border-bottom: 1px solid black;
+	padding-bottom: 5px;
+	font-size: 18px;
+}
+
+table {
+	border: 0.1em solid #bfbfbf !important;
+}
+
+td {
+	border-left: 0 !important;
+	font-weight: 450;
+	padding: 0.6em 0.3em;
+}
+
+.header {
+	background-color: var(--gray-bg);
+	font-weight: 600;
+	font-size: 1.1em;
+}
+
+tr {
+	border-bottom: 0.1em solid #bfbfbf;
+}
+
+.spacer-above {
+	margin-top: 20px;
+}
+
+.spacer-left {
+	margin-left: 5px;
+}
+
+a:visited { 
+ text-decoration: none; 
+ color: blue; 
+}
