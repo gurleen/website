@@ -1,3 +1,4 @@
 localhost
 templates
 file_server
+rewrite /blog/post/*         /blog/post/index.html

@@ -25,11 +25,17 @@
 						<td>Title</td>
 						<td></td>
 					</tr>
-					<tr>
-						<td>2023-01-30</td>
-						<td>Hello, world, and all who inhabit it</td>
-						<td><a class="button" href="#">Read</a></td>
-					</tr>
+					{{range $i, $file := (listFiles "/blog/posts")}}
+						{{$markdownFilePath := printf "/blog/posts/%s" $file}}
+						{{$markdownFile := (include $markdownFilePath | splitFrontMatter)}}
+						{{$title := default $file $markdownFile.Meta.title}}
+						{{$date := default "" $markdownFile.Meta.date}}
+						<tr>
+							<td>{{$date | date "2006-01-02"}}</td>
+							<td>{{$title}}</td>
+							<td><a class="button" href="/blog/post/{{($file | trimSuffix ".md")}}">Read</a></td>
+						</tr>
+					{{end}}
 				</tbody>
 			</table>
 		</div>

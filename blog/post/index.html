@@ -1,0 +1,33 @@
+{{$pathParts := splitList "/" .OriginalReq.URL.Path}}
+{{$markdownFilename := default "index" (slice $pathParts 3 | join "/")}}
+{{$markdownFilePath := printf "/blog/posts/%s.md" $markdownFilename}}
+{{if not (fileExists $markdownFilePath)}}{{httpError 404}}{{end}}
+{{$markdownFile := (include $markdownFilePath | splitFrontMatter)}}
+{{$title := default $markdownFilename $markdownFile.Meta.title}}
+{{$date := default "" $markdownFile.Meta.date}}
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Gurleen Singh</title>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/purecss@3.0.0/build/pure-min.css" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+	<link rel="icon" type="image/x-icon" href="favicon.ico">
+	<link rel="stylesheet" href="/fonts/stylesheet.css">
+	<link rel="stylesheet" href="/styles.css">
+</head>
+
+<body>
+	{{ include "includes/header.html" }}
+	
+	<div class="container spacer-above">
+		<h2>{{ $title }}</h2>
+		<h4>{{ $date | date "2006-01-02"}}</h4>
+		{{markdown $markdownFile.Body}}
+	</div>
+	
+	
+	
+	{{ include "includes/footer.html" }}
+</body>
+</html>
