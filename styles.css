@@ -24,11 +24,17 @@ body {
 }
 
 @media only screen and (min-width: 900px) {
-  /* For large screens: */
-  .container {
-	  margin-left: 120px;
-	  margin-right: 120px;
-  }
+
+	/* For large screens: */
+	.container {
+		margin-left: 120px;
+		margin-right: 120px;
+	}
+
+	.post {
+		margin-left: 250px !important;
+		margin-right: 250px !important;
+	}
 }
 
 .col {
@@ -71,8 +77,8 @@ tr {
 	margin-left: 5px;
 }
 
-a:visited { 
- color: blue; 
+a:visited {
+	color: blue;
 }
 
 .button {

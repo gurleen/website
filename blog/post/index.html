@@ -20,7 +20,7 @@
 <body>
 	{{ include "includes/header.html" }}
 	
-	<div class="container spacer-above">
+	<div class="container spacer-above post">
 		<h2>{{ $title }}</h2>
 		<h4>{{ $date | date "2006-01-02"}}</h4>
 		{{markdown $markdownFile.Body}}
