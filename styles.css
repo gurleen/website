@@ -72,6 +72,21 @@ tr {
 }
 
 a:visited { 
- text-decoration: none; 
  color: blue; 
+}
+
+.button {
+	background-color: green;
+	padding: 5px;
+	padding-bottom: 2px;
+	color: white !important;
+	text-decoration: none;
+}
+
+.center {
+	justify-content: space-around;
+}
+
+.footer {
+	color: lightgray;
 }
