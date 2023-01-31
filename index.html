@@ -84,7 +84,7 @@
 					</tr>
 					<tr>
 						<td>Last Updated</td>
-						<td>{{ exec "cd /var/www/html && git log -1 --format=%cd" | ago}}</td>
+						<td>{{ exec "cd /var/www/html && git log -1 --relative-date --format=%cd" }}</td>
 					</tr>
 				</tbody>
 			</table>
