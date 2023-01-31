@@ -1,4 +1,8 @@
 localhost
 templates
 file_server
+rewrite /blog/  /blog/index.html
 rewrite /blog/post/*    /blog/post/index.html
+log {
+    level debug
+}

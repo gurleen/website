@@ -30,38 +30,15 @@ I find this to be a problem on a lot of corners of the Web. Websites that ought 
 
 Why is this important? Because it lets us build a low-maintenance blog without writing any application code (at long as you don't consider the small bits of logic in our templates to be "application code"). The base file for this page, [`/blog/post/index.html`](https://github.com/gurleen/website/blob/main/blog/post/index.html), uses this small bit of Go template language before the markup to get every Markdown file and prepare them for display:
 
-```html
-{{$pathParts := splitList "/" .OriginalReq.URL.Path}} {{$markdownFilename :=
-default "index" (slice $pathParts 3 | join "/")}} {{$markdownFilePath := printf
-"/blog/posts/%s.md" $markdownFilename}} {{if not (fileExists
-$markdownFilePath)}}{{httpError 404}}{{end}} {{$markdownFile := (include
-$markdownFilePath | splitFrontMatter)}} {{$title := default $markdownFilename
-$markdownFile.Meta.title}} {{$date := default "" $markdownFile.Meta.date}} ...
-
-<div class="container spacer-above">
-  <h2>{{ $title }}</h2>
-  <h4>{{ $date | date "2006-01-02"}}</h4>
-  {{markdown $markdownFile.Body}}
-</div>
-```
+![Code Example 1](/blog/img/caddy-ex-1.png)
 
 That's it. All I have to do now is to drop my Markdown files into `/blog/posts` and Caddy will render the Markdown as HTML, respecting the CSS I created for the website. There's no database, no build step, nothing. Just a clever use of a simple template language.
 
 By the way, [the blog index](/blog/) also uses very little extension to the markup in order to display all of my blog posts:
 
-```html
-{{range $i, $file := (listFiles "/blog/posts")}}
-    {{$markdownFilePath := printf "/blog/posts/%s" $file}}
-    {{$markdownFile := (include $markdownFilePath | splitFrontMatter)}}
-    {{$title := default $file $markdownFile.Meta.title}}
-    {{$date := default "" $markdownFile.Meta.date}}
-    <tr>
-        <td>{{$date | date "2006-01-02"}}</td>
-        <td>{{$title}}</td>
-        <td><a class="button" href="/blog/post/{{($file | trimSuffix ".md")}}">Read</a></td>
-    </tr>
-{{end}}
-```
+![Code Example 2](/blog/img/caddy-ex-2.png)
+
+_"All this talk of simplicity and you're posting images of code instead of using code blocks in Markdown? What gives?"_ Caddy's markdown renderer, [GoldMark](https://github.com/yuin/goldmark), was giving me issues when trying to render code for this blog post. Hopefully that's fixed soon.
 
 **A Plea**
 
