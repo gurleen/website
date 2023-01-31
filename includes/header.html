@@ -1,3 +1,9 @@
+{{$pathParts := splitList "/" .OriginalReq.URL.Path}}
+{{$currPage := default "home" (slice $pathParts 1 2 | join "/")}}
 <div class="container nav">
-	<span class="title">Gurleen Singh</span><a href="/">home</a> <a href="/blog">blog</a>
+	<span class="title">Gurleen Singh</span>
+	<a href="/" style="margin-right: 2px;">
+		{{ if eq $currPage "home"}}<span style="font-weight: bold;">home</span>{{else}}home{{end}}</a>
+	<a href="/blog" style="margin-right: 2px;">
+		{{ if eq $currPage "blog"}}<span style="font-weight: bold;">blog</span>{{else}}blog{{end}}</a>
 </div>
