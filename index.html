@@ -64,6 +64,27 @@
 				</tbody>
 			</table>
 		</div>
+		<div class="col">
+			<table class="pure-table">
+				<tbody>
+					<tr class="header">
+						<td colspan="2" style="font-weight: bold;">About This Server</td>
+					</tr>
+					<tr>
+						<td>Hardware</td>
+						<td>Linode 1GB</td>
+					</tr>
+					<tr>
+						<td>OS</td>
+						<td>Ubuntu 20.04 LTS</td>
+					</tr>
+					<tr>
+						<td>Uptime</td>
+						<td>{{exec "uptime -p"}}</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
 	</div>
 	
 	{{ include "includes/footer.html" }}
