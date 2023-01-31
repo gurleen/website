@@ -82,6 +82,10 @@
 						<td>Uptime</td>
 						<td>{{exec "uptime -p"}}</td>
 					</tr>
+					<tr>
+						<td>Last Updated</td>
+						<td>{{ exec "cd /var/www/html && git log -1 --format=%cd" }}</td>
+					</tr>
 				</tbody>
 			</table>
 		</div>
