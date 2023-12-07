@@ -2,7 +2,7 @@
 title: On College Basketball and the Human Condition
 date: 2023-12-7
 ---
-![](on_college_basketball_and_the_human_condition/AP23336762076750.jpg)
+![](/blog/img/AP23336762076750.jpg)
 
 > “Nothing makes me feel as purely and intensely as football. It usually makes me feel awful--but it is a PURE awful, you see. It is a SINGULAR awful.” — John Green [4]
 
@@ -24,7 +24,7 @@ I was nineteen years old at a Chickie’s and Pete’s because that was just abo
 
 All because our collective salvation rested on 4.2 seconds of basketball that remains forever imprinted on my memory and the memories of millions. 4.2 seconds later, the art gallery of the universe received it’s newest submission.
 
-![](on_college_basketball_and_the_human_condition/merlin_154781583_59ee5f0b-d267-40bf-a76e-7fd127c9adb1-superJumbo.jpg)
+![](/blog/img/merlin_154781583_59ee5f0b-d267-40bf-a76e-7fd127c9adb1-superJumbo.jpg)
 *Kawhi Leonard puts up a three-point prayer at the buzzer to send the Toronto Raptors to the 2019 Eastern Conference Finals. Photograph: Mark Blinch/NBAE/Getty Images*
 
 I never knew until that moment just how loud silence could be. As much as you could hear a pin drop in the room, you could also hear the expletives in minds of those South Philadelphia basketball fans. I seemingly lost the ability to speak for the next twenty minutes as we grappled with the realization that those 4.2 seconds had denied us a salvation long awaited, uncertain if we may have to wait a lifetime more.
@@ -39,7 +39,7 @@ We loved each other so much that we learned to grow more food than we ate so tha
 
 I recognize that this is a rather privileged take. For a lot of people, especially at this moment in history, this is not reality. For some, survival is a far greater worry than scoring a goal. But I’d like to think sport gives the oppressed peoples of the world a glimmer of hope that they may have more time to take batting practice (baseball or cricket, you decide) instead of having to worry about their next meal.
 
-![](on_college_basketball_and_the_human_condition/3900.jpg)
+![](/blog/img/3900.jpg)
 *Two Afghani cricket fans watch their nation’s team face Australia in the 2023 Cricket World Cup. Photograph: Wakil Kohsar/AFP/Getty Images*
 
 Consider the Afghanistan national cricket team. I’m sure you can guess they haven’t had it easy. Between socioeconomic conditions and a region in constant turmoil, putting together a world-class cricket team is a herculean task. But with the odds stacked against them at this year’s Cricket World Cup, they put together victories over Pakistan, Sri Lanka, and England (who are all among the sport’s best teams). 
@@ -69,7 +69,7 @@ I couldn’t just sit and accept this. I felt so deeply that the floorboards on 
 
 And so I, along with so many talented people that have worked on DragonsTV throughout the years (especially those before me), have spent so much time making these basketball broadcasts look as good as they possibly could with what we had. I figured that if we looked respectable, we would be respected. 
 
-![](on_college_basketball_and_the_human_condition/DTV%20Then%20and%20Now.png)
+![](/blog/img/DTV%20Then%20and%20Now.png)
 *Screenshots from DragonsTV broadcasts. Left: Jan. 2019 game vs. Towson. Right: Nov. 2023 game vs Temple, and the first Big 5 game at the Daskalakis Athletic Center.*
 
 For those loyal to the Dragons, we gave them more of their favorite college basketball team every year. If just one person told me they felt closer to the DAC having watched our broadcast, my work was a success. And for the Drexel teams, success was not far away. Both the women and men would win their respective conference tournaments and make an appearance in the NCAA tournament, the latter team having done it for the first time in 25 years. Respect was being earned on Market Street.
@@ -86,7 +86,7 @@ And there I was, court side at Wells Fargo Center, with hopeful (if a bit temper
 
 With just a single Villanova possession left in the game, Drexel led 57-55. Our collective salvation rested on just 6.9 seconds of basketball. As I readied my phone to record, I thought to myself, “I’ve seen this before, and it hasn’t ended well”. But Drexel’s Amari Williams had other plans defensively. 6.9 seconds later, the art gallery of the universe received an unlikely submission.
 
-![](on_college_basketball_and_the_human_condition/Z92_9129.jpg)
+![](/blog/img/Z92_9129.jpg)
 *Drexel celebrates a 57-55 victory over #18 Villanova, their first win in the Big 5.*
 
 Anxiety became joy, pain became relief. _Salvation_.
