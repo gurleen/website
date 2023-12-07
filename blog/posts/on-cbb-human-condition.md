@@ -91,7 +91,7 @@ With just a single Villanova possession left in the game, Drexel led 57-55. Our 
 
 Anxiety became joy, pain became relief. _Salvation_.
 
-In an instant, I learned why I’ve been so willing to risk heartbreak. For loving something so strongly will pay dividends in salvation.
+In an instant, I learned why I’ve been so willing to risk heartbreak. For loving something so strongly, even when it hurts, is why we're here.
 
 ---
 
