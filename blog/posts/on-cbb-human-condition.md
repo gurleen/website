@@ -27,7 +27,7 @@ All because our collective salvation rested on 4.2 seconds of basketball that re
 ![](/blog/img/merlin_154781583_59ee5f0b-d267-40bf-a76e-7fd127c9adb1-superJumbo.jpg)
 *Kawhi Leonard puts up a three-point prayer at the buzzer to send the Toronto Raptors to the 2019 Eastern Conference Finals. Photograph: Mark Blinch/NBAE/Getty Images*
 
-I never knew until that moment just how loud silence could be. As much as you could hear a pin drop in the room, you could also hear the expletives in minds of those South Philadelphia basketball fans. I seemingly lost the ability to speak for the next twenty minutes as we grappled with the realization that those 4.2 seconds had denied us a salvation long awaited, uncertain if we may have to wait a lifetime more.
+I never knew until that moment just how loud silence could be. As much as you could hear a pin drop in the room, you could also hear the expletives in the minds of those South Philadelphia basketball fans. I seemingly lost the ability to speak for the next twenty minutes as we grappled with the realization that those 4.2 seconds had denied us a salvation long awaited, uncertain if we may have to wait a lifetime more.
 
 ---
 
