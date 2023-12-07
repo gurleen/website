@@ -63,7 +63,7 @@ I was expecting to get paid ten dollars an hour to point a camera at some studen
 
 Here I was, spending all of my non-school hours on putting mid-major men’s and women’s basketball teams on television. Teams that, historically, didn’t really get much respect:
 
-> Some backstory *here*: Five Philadelphia colleges have played an informal round robin nearly every year for 60-plus years. That grouping of La Salle, Penn, St. Joe’s, Temple and Villanova is known as the Big 5. Drexel is another Division I basketball school in Philadelphia; they are the afterthought of Philly college hoops. Sorry, but it’s true. The Dragons have a good nickname, but haven’t been to the NCAA tournament in nearly 25 years. The best things about Drexel basketball in recent years are the fan who dressed as Hank Hill, complete with propane tank, and the student section’s Harlem Shake video. [2]
+> "Some backstory *here*: Five Philadelphia colleges have played an informal round robin nearly every year for 60-plus years. That grouping of La Salle, Penn, St. Joe’s, Temple and Villanova is known as the Big 5. Drexel is another Division I basketball school in Philadelphia; they are the afterthought of Philly college hoops. Sorry, but it’s true. The Dragons have a good nickname, but haven’t been to the NCAA tournament in nearly 25 years. The best things about Drexel basketball in recent years are the fan who dressed as Hank Hill, complete with propane tank, and the student section’s Harlem Shake video." [2]
 
 I couldn’t just sit and accept this. I felt so deeply that the floorboards on the court of the Daskalakis Athletic Center, if they could talk, had so many stories to tell. And I’d be damned if those stories were not given the spotlights they deserved.
 
@@ -78,9 +78,9 @@ When it came time to revive the Philadelphia Big 5 in 2023, Drexel was given a s
 
 Despite losing two heavily-contested games against La Salle and Temple, the fates had ordained that our game at the Big 5 Classic would be against #18 Villanova. A team that for decades had dominated the Big 5. It was assumed by most that this game would be a walk in the park for the nationally-ranked side. 
 
-> As good as Drexel may be defensively, it is offensively challenged. The Dragons ranked 245th in offensive efficiency, per KenPom.
+> "As good as Drexel may be defensively, it is offensively challenged. The Dragons ranked 245th in offensive efficiency, per KenPom."
 > 
-> Williams is talented inside, but the Dragons don’t have any real perimeter threats and shot just 23.8% as a team from beyond the arc (353rd in the country). They’re also turnover prone, coughing the ball up on 19.3% of possessions, which ranks in the bottom-third nationally. [3]
+> "Williams is talented inside, but the Dragons don’t have any real perimeter threats and shot just 23.8% as a team from beyond the arc (353rd in the country). They’re also turnover prone, coughing the ball up on 19.3% of possessions, which ranks in the bottom-third nationally." [3]
 
 And there I was, court side at Wells Fargo Center, with hopeful (if a bit tempered) optimism. Even as the Dragons refused to give up a lead to the opposing side at any point in the game. I thought to myself, “I’ve seen this before, and it hasn’t ended well”. If only I thought to remind myself that some of the greatest miracles known to man have happened on the hardwood.
 
