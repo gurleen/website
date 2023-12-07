@@ -1,6 +1,6 @@
 ---
 title: On software simplicity and blogs
-date: 2022-01-31
+date: 2023-01-31
 ---
 
 > "Inside every large program, there is a small program trying to get out."
