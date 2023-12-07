@@ -72,7 +72,7 @@ And so I, along with so many talented people that have worked on DragonsTV throu
 ![](/blog/img/DTV%20Then%20and%20Now.png)
 *Screenshots from DragonsTV broadcasts. Left: Jan. 2019 game vs. Towson. Right: Nov. 2023 game vs Temple, and the first Big 5 game at the Daskalakis Athletic Center.*
 
-For those loyal to the Dragons, we gave them more of their favorite college basketball team every year. If just one person told me they felt closer to the DAC having watched our broadcast, my work was a success. And for the Drexel teams, success was not far away. Both the women and men would win their respective conference tournaments and make an appearance in the NCAA tournament, the latter team having done it for the first time in 25 years. Respect was being earned on Market Street.
+For those loyal to the Dragons, we gave them more of their favorite college basketball team every year. If just one person told me they felt closer to the DAC having watched our broadcast, my work was a success. And for the Drexel teams, success was not far away. In 2021, both the women and men would win their respective conference tournaments and make an appearance in the NCAA tournament, the latter team having done it for the first time in 25 years. Respect was being earned on Market Street.
 
 When it came time to revive the Philadelphia Big 5 in 2023, Drexel was given a seat at the table. At long last. These young women and men had worked tirelessly to give their teams the success needed to make this happen. And I’d like to think that making them look respectable on television had helped, if only a bit.
 
