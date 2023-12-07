@@ -20,7 +20,7 @@ But we’ve seen those moments of infamy.
 
 ---
 
-I was nineteen years old at a Chickie’s and Pete’s because that was just about the only public place a nineteen-year-old could see the Sixers play the Raptors in Game 7 of the Eastern Conference Semifinals (at least without breaking the law). I felt an aching in my gut that the strongest does of Alka-Seltzer couldn’t solve. Although I imagine the ridiculous amount of chicken wings didn’t help.
+I was nineteen years old at a Chickie’s and Pete’s because that was just about the only public place a nineteen-year-old could see the Sixers play the Raptors in Game 7 of the Eastern Conference Semifinals (at least without breaking the law). I felt an aching in my gut that the strongest dose of Alka-Seltzer couldn’t solve. Although I imagine the ridiculous amount of chicken wings didn’t help.
 
 All because our collective salvation rested on 4.2 seconds of basketball that remains forever imprinted on my memory and the memories of millions. 4.2 seconds later, the art gallery of the universe received it’s newest submission.
 
